@@ -1,2 +1,0 @@
-# miproyecto
-Proyectos DAM
